@@ -1,0 +1,23 @@
+# Eclipse
+.classpath
+.project
+.settings/
+out/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+node_modules/
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+*.class
+
+#hibernate
+hibernate.cfg.xml
